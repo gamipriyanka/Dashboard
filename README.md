@@ -12,7 +12,7 @@ The dashboard uses a cleaned and organized dataset with metrics like sales, prof
 ## Program Logic:
 - Step1: Input Data Setup
 - Step 2: Pivot Table Creation
-- 1. Overall Orders vs. Sales Analysis
+  1. Overall Orders vs. Sales Analysis
   2. Sales Distribution by Gender
   3. Order Status Breakdown
   4. Order Analysis by Age and Gender
